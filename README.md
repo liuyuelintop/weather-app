@@ -4,7 +4,7 @@ This is a simple weather app implemented by React JS and OpenWeatherMap API.
 
 **Learning Materials**:
 
-[Code Commerce:  Build A React JS Weather App - OpenWeatherMap API](Build A React JS Weather App - OpenWeatherMap API - Tutorial)
+[Code Commerce:  Build A React JS Weather App - OpenWeatherMap API](https://www.youtube.com/watch?v=UjeXpct3p7M)
 
 - [source code](https://github.com/fireclint/weather-app-react/tree/main)
 
@@ -33,7 +33,6 @@ The API key will be activated within two hours.
 
 [Frequently Asked Questions](https://openweathermap.org/faq#error401)
 
-[Weather Icons](https://openweathermap.org/weather-conditions)
 
 ### VS Code Install Thunder Client
 
