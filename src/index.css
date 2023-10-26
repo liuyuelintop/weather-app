@@ -18,6 +18,9 @@ p {
   font-size: 1.6rem;
 }
 
+.loading{
+  text-align: center;
+}
 h1 {
   font-size: 6rem;
 }
